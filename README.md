@@ -1,7 +1,7 @@
 # JsonPredicateBuilder
 ## JSON Data for match
 
-Define your workflows with the fluent API.
+Json example for Build Predicate
 
 ```c#
 {
